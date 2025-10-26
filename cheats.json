@@ -1,0 +1,3 @@
+cheats = [ 
+"loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/f255e5077bcb59d3f7199a6f878d9e09a34b02174317545f3027a2cafb2653bb/download"))()"
+]
